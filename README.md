@@ -1,6 +1,13 @@
 <div align=center bold>
-<strong> Olá eu sou Kaio Galvão 👋</strong>
+ <h1><strong>Seja Bem-vindo 👋</strong></h1>
 </div>
+
+:alien: Me chamo, Kaio Galvão!  
+:wrench: Técnico em Manutenção e Suporte à Informática - IFSP  
+👩‍💻 Técnico em Computação Gráfica - FATAC  
+:mortar_board: Análise e Desenvolvimento de Sistemas - FATEC  
+💻 Estou em busca de agregar valor ao mundo e me aprimorar no processo
+
 <div style="display: inline_block" align=center><br>
  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   	  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -12,26 +19,7 @@
   
 </div>
 
-<!--
-Referencia:
-https://github.com/anuraghazra/github-readme-stats/tree/master
-**KaioGalvaoProjetos/KaioGalvaoProjetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=KaioGalvaoProjetos&show_icons=true&custom_title=Kaio_Galvão)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioGalvaoProjetos&hide_progress=false&custom_title=Linguagens&layout=compact)
--->
 <div align=center>
   <img height=120px src="https://github-readme-stats.vercel.app/api?username=KaioGalvaoProjetos&show_icons=true&custom_title=Kaio_Galvão&hide=prs"  />
   </a>
@@ -52,7 +40,7 @@ Here are some ideas to get you started:
    <div style="display: inline_block"><br>
     Ambientes de desenvolvimento:
      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
+<!--      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg"> -->
      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
    </div>
@@ -78,14 +66,14 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
   </div>
   <div style="display: inline_block"><br>
-        Computação Gráfica:  
+<!--         Computação Gráfica:  
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
     
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
-  </div>
+  </div> -->
   
   ##
  
