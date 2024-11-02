@@ -2,7 +2,7 @@
  <h1><strong>Seja Bem-vindo 👋</strong></h1>
 </div>
 
-:alien: Me chamo, Kaio Galvão!  
+:alien: Me chamo Kaio Galvão!  
 :wrench: Técnico em Manutenção e Suporte à Informática - IFSP  
 👩‍💻 Técnico em Computação Gráfica - FATAC  
 :mortar_board: Análise e Desenvolvimento de Sistemas - FATEC  
